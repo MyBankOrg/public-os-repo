@@ -1,0 +1,3 @@
+[submodule "public-os-repo-my-bank-audit-copy"]
+	path = public-os-repo-my-bank-audit-copy
+	url = https://github.com/MyBankOrg/public-os-repo-my-bank-audit-copy.git
